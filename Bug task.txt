@@ -1,0 +1,30 @@
+Tasks:
+
+1.	Write 2 examples bugs each for the below condition (summary alone)
+a.	High Severity High Priority
+b.	High Severity Low Priority
+c.	Low Severity High Priority
+d.	Low Severity Low Priority
+
+2.	Raise 4 Bugs with the below details.
+
+Login button is greyed out. SBI.
+Error 404 is displayed after selecting contact us link airindia.com
+When doube tap on the image, Like button is not working in instagram. 
+App is allowed to enter more than 160 character in twitter.
+
+
+Questions:
+
+1.	What is a Defect?
+2.	What is a Bug?
+3.	What is an Error?
+4.	What is a Failure?
+5.	What is Bug Severity?
+6.	What is Bug Priority?
+7.	What is Bug Life Cycle?
+8.	What is Showstopper Defect?
+9.	What is HotFix?
+10.	What is Bug leakage?
+11.	What are the different status of the bug?
+12.	Different tools to create the bug?

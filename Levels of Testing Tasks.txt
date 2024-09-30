@@ -1,0 +1,17 @@
+What is waterfall Model?
+What is V Model?
+What is Early Testing?
+Diff b/w Waterfall and V Model?
+What is black box testig?
+What is white box testing?
+What are the different levels of testing?
+Who will do Unit Test?
+What will be Tested in unit test?
+Who will do Integration Test?
+What will be Tested in Integration test?
+Who will do System Test?
+What will be Tested in System test?
+Who will do Acceptance Test?
+What will be Tested in Acceptance test?
+What are the different environment avaiable?
+Which environment QA team will work?

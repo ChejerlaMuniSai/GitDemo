@@ -1,0 +1,32 @@
+Test Case Design
+================
+
+Test Scenario
+Test Cases
+Test Suite
+
+
+Test Cases
+===========
+
+Think to keep in Mind
+
+1. Complete understanding of Requirements
+2. Implementing the testing Techniques
+3. Identifying test data
+4. Utilising the already existing test cases
+
+
+Test case columns
+====================
+
+Tc No
+Tc Name
+Tc Description
+Pre Condition
+Test Data
+Actual
+Expected
+Remarks
+
+

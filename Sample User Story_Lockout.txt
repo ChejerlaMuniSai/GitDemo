@@ -1,0 +1,32 @@
+Acceptance Criteria
+
+Display an error/alert if the account is locked out.
+
+Provide two actions within the alert:
+
+Reset password
+
+Cancel
+
+When 'Reset password' is pressed, launch the password reset flow, as per 
+
+When 'OK' is pressed, dismiss the error/alert. Return the user to the underlying screen (Log in form).
+
+Lockout Rules
+
+5 incorrect logins in the past 30 min, user locked out for 30 min
+
+25 incorrect logins in the past 30 min, IP locked out for 1 hour
+
+Password reset can unlock the account
+
+Example Copy
+
+Title: Account locked out
+
+Message: Your account has been locked out due to repeated incorrect log in attempts. You'll be able to log in again shortly, or you can reset your password to regain access immediately.
+
+Primary CTA: OK
+
+Secondary CTA: Reset password
+

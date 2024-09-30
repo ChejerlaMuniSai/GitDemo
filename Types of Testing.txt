@@ -1,0 +1,52 @@
+xRetesting:
+
+- Rerunning the failed test case in the fixed version to ensure bug is fixed or not
+- After the raised bug is fixed
+- 1
+
+Regression
+
+- Test to ensure nothing is broken on prev Fun because of implementing new fun or fixing a bug
+- Before going to Production
+- 400
+
+Smoke
+- Day 0 check. Build Level Check. To ensure the build received from Dev is testable or not
+- In Every Build
+- 7
+
+Sanity
+- Subset of Regression. High Priority test cases of regression suite.
+- When you cant run regression during release time
+- 100 
+
+Alpha
+
+- Pre Prod
+- In house Dev and Testers
+- Dev Place
+
+Beta
+
+- Pre Prod
+- Limited no of End user
+- Client Place
+
+Exploratory
+
+- Carried out by domain experts
+- exploring the functionalities of the application without having the knowledge of the requirements
+
+Adhoc
+
+- Informal testing
+- Testers randomly test the application without following any documents and test design techniques
+- QA with high Fun Knowledge
+
+Verification
+Validation
+QA	
+QC
+Static Testing
+Dynamic Testing
+7 Principle of Software Testing

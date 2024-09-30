@@ -1,0 +1,92 @@
+ Disadvantage of Water fall Model:
+=================================
+
+* Testing is started very late
+* Model wont work if requirement is dynamic
+
+Disadvantage of VV Model:
+======================
+
+* Model wont work if requirement is dynamic
+
+Agile:
+=======
+* Splitting the entire requirement into small user stories
+* Sooner to market
+* Both Dev and QA work together
+* Even the requirement changes, the project still with stand with the new changes
+* End of each sprint, we will get a working prototype
+
+Roles:
+=======
+Product Owner - One who owns the product
+Scrum Master - Mangages the scrum team
+Development Team / Scrum Team - Includes Dev, QA, Design, Service and BA
+
+Keyterms:
+==========
+
+Epic - Larger User Story. Group of related user story.
+User Story - Small piece of requirements
+Sprint - Timeline that required to complete the taken user stories. (2 weeks, 3 Weeks, 4 Weeks)
+Story points: Poker card method: Fibonacci series.
+
+Artifacts
+===========
+
+Product Backlog - repositry collection of user story.
+Sprint Backlog - contains Current sprint user story 
+Product Increment - Incrementing the product in every sprint
+
+Scrum meetings:
+===============
+
+Sprint Planning
+===============
+* Pulling stories from product backlog to Sprint backlog
+* Vactaion
+* set the veoallocity
+* which story to go first
+* 1 hr Meeting
+* PO, SM, Scrum Team.
+
+Daily Stand up
+==============
+* What i had done yesterday?
+* WHat i m going to do today?
+* AM i blocked with anything?
+* 15 mins
+* SM, Scrum Team
+
+Sprint review
+=============
+
+* All members including stakeholders
+* Demo session or showcase meeting
+* 1 hr
+
+Sprint Retrospective:
+=====================
+
+* What went right?
+* What went Wrong?
+* Action items?
+* 1 hr
+
+Story Grooming: (Not a important meeting of Agile)
+==================================================
+
+Grooming the stories.
+Adding the points to the Story
+
+Others: 
+
+Velocity
+========
+- Capacity of team. Story points completed per sprint.
+- Measure of the amount of work a Team can tackle during a single Sprint. 
+- Calculated at the end of the Sprint by totaling the Points for all fully completed User Stories.
+
+Burndown chart
+==============
+

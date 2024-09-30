@@ -1,0 +1,21 @@
+Diff Between Waterfall and Agile?
+What is the roles in Agile?
+What are the meeting in the Agile?
+What are the artifacts in the Agile?
+What will happen in the Sprint planning meeting?
+What will happen in the Sprint Review meeting?
+What will happen in the Sprint Retrospective meeting?
+What will happen in the Daily Standup meeting?
+What will happen in the Story grooming meeting?
+What is product backlog?
+What is Sprint backlog?
+What is product increment?
+What is user story?
+What is story points?
+How to estimate the story points?
+What is Epic?
+What is sprint?
+What is burndown chart?
+What is burnup chart?
+What is velocity?
+What is the duration of your sprint?

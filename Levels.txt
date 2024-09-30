@@ -1,0 +1,20 @@
+Unit:
+Who:Developers
+what: Individual component in code level
+B/w: W
+
+Integration:
+Who: Webservice Dev/Test
+what: Communication between 2 component.
+B/w: B
+
+System:
+Who: Professional Tester
+what: Functional and Non FUnctional
+B/w: B
+
+Acceptance
+Who: Client/QA
+what: Requirement Coverage
+B/w: B
+

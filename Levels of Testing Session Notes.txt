@@ -1,0 +1,24 @@
+Models in SDLC
+================
+
+Waterfall Model
+V Model
+Agile
+
+Levels of Testing:
+==================
+
+Unit
+Integration
+System
+Acceptance
+
+Who, What, Black box or White box.
+
+Environment
+============
+
+Dev
+SIT --> QA
+UAT --> QA
+Prod

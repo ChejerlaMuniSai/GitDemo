@@ -1,0 +1,17 @@
+1. Create an Agile Project
+2. Create an Epic
+	Login
+3. Create 3 user Stroies
+
+	As a (who wants to accomplish something)
+	I want to (what they want to accomplish)
+	So that (why they want to accomplish that thing)
+	
+4. Estimate the Story
+5. Create a Sprint and start the sprint (3 weeks)
+6. Create a task for the user story (Add child issues, Create sub task)
+	Test case Creation
+	Test Exceution
+7. Create a bug
+8. Close all the Story and Bug
+9. Check the burndown Chart

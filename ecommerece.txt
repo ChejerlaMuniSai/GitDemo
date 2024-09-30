@@ -1,0 +1,38 @@
+Ecommerce:
+==========
+
+Window Shopping
+Order Placing
+
+
+Accounts
+Orders
+Tracking
+
+Main Page:
+===========
+
+Login. --> 
+Search Page. ---> ADs
+Select Page.
+Product Description
+Cart Page
+Review Page
+Payment Page
+Confirmation Page
+
+Tracking:(Admin)
+=========
+
+Ordered
+Confirmed
+Shipped
+delivered
+Returned
+refunded
+replaced
+
+Order confirmation using Visa Card
+
+login --> Mobile ---> select the version ---> cart --> review --> Visa ---> COnfirmation number
+

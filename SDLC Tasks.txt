@@ -1,0 +1,13 @@
+Questions:
+
+Why we go for Manual over Automation?
+What is SDLC?
+What are the Stages of SDLC?
+What is the document that QA and DEV will refer for their reference?
+What will happen in Requirement Analysis Stage?
+What will happen in Define Stage?
+What will happen in Design Stage?
+What will happen in Coding Stage?
+What will happen in Testing Stage?
+What will happen in Deployment Stage?
+What will happen in Maintainence Stage?

@@ -1,0 +1,17 @@
+less webelements - 1 - login page
+More number of Webelemets - 2 - account creation page
+minimal functionlity - 3 - Basic login, search, retrieve the page
+more functionality - 5 - Sort and Filter
+more functionality with complex  Test Case - 8 - Booking completion, Tax part, email validataion
+No 13 pointers. we split to 8 and 5.
+
+How many test cases you have created in a day --> 10 - 12 ( 2 Week )
+How many test cases you have created in a Sprint --> 25 - 30 (2 Week )
+How many bugs you have created in a sprint --> 5 - 10
+How many sprints you worked on --> 6 manual --> 2.5 
+How many bugs you have created so far --> 
+Insprint Automation
+n-1 Automation
+
+Last 5 User Story
+Last 5 bugs created

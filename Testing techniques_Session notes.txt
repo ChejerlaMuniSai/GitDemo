@@ -1,0 +1,116 @@
+design technique:
+
+Boundary Value Analysis --> Edge case Scenario. --> 6 to 25
+Equivalence partition: --> 
+Desicion table:
+State transition:
+Use case testing:
+Negative Testing
+Positive Testing
+Error Guessing
+
+	
+
+0-15 --> child
+16-50 ---> Adult
+51-65 ---> Senior citizen
+66-100---> Super seniors
+
+0,15,16,50,51,65,66,100
+
+0- C
+15 - c
+16- A
+50 - A
+51 - S Ci
+65 - S Ci
+66 - SS
+100 - SS
+
+
+Equi:
+In given range we have to check from starting to ending 
+
+
+1000-2000 --> No error
+2001-3000 --> Error
+3001-5000 --> No Error
+
+
+1000
+2000
+2001
+3000
+3001
+5000
+
+
+
+1000-1200 ---> 1080 -> No Error 
+1201-1400 ---> 1300 -> No Error
+1401-1600 ---> 1450 -> No Error
+1601-1800 ---> 1700 -> No Error
+1801-2000 ---> 1900 -> No Error
+
+Decision tables: Helps to identify the combinations
+===================================================
+With a different input combinations
+valid, Invalid
+Username, Password:
+
+Valid , Valid -----> 2^2= 4
+Valid , Invalid
+Invalid, Valid
+Invalid, Invalid 
+
+
+valid, Invalid, Blank
+Username, Password:
+
+Blank, Blank   ----> 3^2 = 9
+Blank, Valid
+Blank, Invalid
+Valid, Valid
+Valid, Invalid
+Valid, Blank
+Invalid, Invalid
+Invalid, Blank
+Invalid, Valid
+
+
+
+
+0 - Invalid
+1 - Valid
+
+Current Password
+New Password
+Confirm Password
+
+
+c n con
+0 0 0 ---> negative
+0 0 1
+0 1 0
+0 1 1 --> negative
+1 0 0
+1 0 1
+1 1 0 ---> negative
+1 1 1 --> Postive
+
+
+2^3 
+
+No of input ^ No of Fields
+
+
+State Transition:
+
+
+Use Case:
+
+
+Logo shoud be in every page.
+
+
+Negative test case:

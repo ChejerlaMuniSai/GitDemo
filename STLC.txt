@@ -1,0 +1,59 @@
+aRequirement Analysis:
+=====================
+
+Input : SRS Document
+
+Understand the requiremennt
+Clarification - Walkthrough - BA will clarify your doubts
+Scope - What to test , what not to test
+application access - for all test website
+Contract: Interview or Workshop with SME
+
+Output : Finalized Scope. Application access.
+
+
+Test Planning:
+==============
+
+Input: Finalized Scope. Application access.
+
+involving in creating test strategy and test schedule document.
+
+output: Test strategy, Test schedule document
+
+Test Design:
+============
+
+Input: Test strategy, Test schedule document
+
+Creating Test case and Test Scenario
+Test Data Identification
+Review - Peer Review, Lead Review, BA Review
+Rework on my review comments
+Approval - All scenarios are covered
+
+Output : Signoff Test cases, Test Scenarios and RTM                                                                                                                                       
+
+Test Execution:
+===============
+
+Input: Signoff Test cases, Test Scenarios and RTM
+
+Functional Execution
+Regression
+Defect Management
+Reports - Execution and Summary
+Review - Peer Review, Lead Review, BA Review
+Approvals
+
+Output: Execution and Summary Report. Defect Log
+
+Signoff
+=======
+
+Input : Execution and Summary Report. Defect Log
+
+Signoff Documents - Positive, Conditional and Risk Based Signoff
+Training of user
+
+Output : Project Sign off

@@ -1,0 +1,17 @@
+1. Page should have Login fields
+•	Username and Password
+2. Username should accept Email and Mobile number
+•	Email Regex:
+o	should have minimum of 5 digit
+o	Cannot be empty
+o	Cannot start or end with @
+o	Cannot start or end with a period
+o	Should not contain more than 1 @
+o	Must contain at least 1 period (.) after the @
+o	Cannot have two period in a row
+o	Cannot have @ and a period next to each other
+
+•	Mobile Number:
+o	Should contain only the number
+o	Minimum 10 digit
+o	Maximum 10 digit

@@ -1,0 +1,26 @@
+1. Tell about your role in ur Project?
+
+2. 
+What is STLC?
+Diff B/W SDLC and STLC?
+What are the Different Stages in STLC?
+What is entry criteria?
+What is exit criteria?
+What will happen in Requirement Analysis Stage?
+What is walkthrough?
+What is scoping?
+What is the output of the Requirement Analysis Stage?
+What is Test Plan Document?
+What is Test Strategy Document?
+What is the output of the Test Planning Stage?
+What is test case?
+What is test scenario?
+What is RTM (Requirement Traceablility matrix) ?
+What are the different review available?
+What is the output of the Test Design Stage?
+What are the different testing perfromed in test execution stage?
+What is summary report?
+What is defect log?
+What will be the output of test execution stage?
+What are the different signoff avaiable?
+

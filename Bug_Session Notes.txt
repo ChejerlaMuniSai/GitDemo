@@ -1,0 +1,128 @@
+Defect Management:
+==================
+
+- Bug and Different kinds of Defect
+- Quantifying the defects
+- Bug Life Cycle
+- Fields required to raise the bugs
+- Sample Defect format
+
+Bug:
+====
+
+- Something is deviated from the requirement
+
+Different kinds of Defect
+=========================
+
+- Defect ---> Developer , Development Phase
+- Bug ---> Tester , Testing stage
+- Failure ---> End User, Production stage
+- Error ---> Failure happening in Dev program
+
+
+Quantifying the defects
+=======================
+- Severity -> defines the impact of the defect. Tester
+- Priority -> how sooner the defect needs to be fixed. Business
+
+Bug Life Cycle
+==============
+
+- Different Status of the bug.
+
+Fields required to raise the bugs
+=================================
+
+Summary- Short description of the defect
+Description - 
+Device/Platform/Browser
+Build number
+Problem/Actual
+Expected
+Steps to reproduce
+Test Data
+Attachment
+Assignee
+Environment
+Reporter
+Severity
+Priority
+Linkage
+SLA
+
+
+
+unit --> www.dev.fb.com  ---> www.dev.fb.com
+integ
+sys --> www.sit.fb.com --> www.qa.fb.com 
+accep --> www.uat.fb.com ---> www.bat.fb.com
+
+user acceptance test
+business Acceptance test
+
+prod ---> www.fb.com
+
+
+
+Sample Defect format
+======================
+
+Summary: Booking amount is deducted twice for single transaction
+
+Description:
+
+Platform/Browser : Windows 10 / Google Chrome 96
+Build Number/Versions : V 1.6.2111201727
+
+Problem:
+
+* Amount is deducted twice for single transaction during booking
+* This issue is not happeningin Change booking and Cancel booking
+* This is happening only in the booking flow
+
+Expected:
+
+* Only the valid amount should be deducted
+* No extra charges should be deducted
+
+Steps to reproduce:
+
+# GO to the url www.airindia.com
+# Login with the below credentials
+# Enter the below mentioned O and D
+# Enter the below mentioned date
+# Select the below mentioned flight and cabin
+# Validate the booking fee amount
+# Enter the valid payment card detail
+# Select book button
+# Booking is finalized
+# *Problem:* Validate Amount is deducted twice for single transaction
+
+Test Data:
+
+* subashbalachandran
+* test123
+* MAA - TRZ
+* 20Nov21 to 21Nov21
+* 1 Pasenger
+* AI 123, Economy
+* 4111111111111111 02/22 123
+
+Attachment: Screenshot or Video
+
+Assignee: Vedha
+Environment: UAT
+Reporter: Subash B
+Severity: High
+Priority: High
+Linkage: 
+Due: 
+
+
+https://www.atlassian.com/software/jira/free
+https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free
+
+Try Jira ---> Select the Link ---> Next --> Sign up --> Verify the Email --> URL Name --> Select 9 dots ---> Jira ---> Create the Project ---> Template --> Name the Project --> Land on the Proje
+
+Select Create ---> Configure Fields ---> Customs --> Select all the fields.

@@ -1,0 +1,44 @@
+Health Insurance:
+
+Admin.
+Customer.
+
+Customer:
+=========
+
+Important Criteria:
+
+Proof
+-> Uploading
+-> Verification
+
+Claims
+-> Benifits and claim limits
+	-> Medical
+	-> Vision Exam
+	-> Specs
+	-> Dental
+	-> Physio
+	-> Acupuncture
+	-> Coverage and Owes
+
+-> Previous Claims
+	-> Filter
+
+-> New Claims
+	-> Upload
+	-> Doctor Name
+	-> 
+
+Find a provider.
+
+-> Medical
+-> Vision Exam
+-> Specs
+-> Dental
+-> Physio
+-> Acupuncture
+
+Premium Plans
+	-> More Benifits
+	-> Hot line

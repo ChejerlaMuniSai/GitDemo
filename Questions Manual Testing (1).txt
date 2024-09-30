@@ -1,0 +1,86 @@
+Why we go for Manual over Automation?
+What is SDLC?
+What are the Stages of SDLC?
+What is the document that QA and DEV will for their reference?
+What will happen in Requirement Analysis Stage?
+What will happen in Define Stage?
+What will happen in Design Stage?
+What will happen in Coding Stage?
+What will happen in Testing Stage?
+What will happen in Deployment Stage?
+What will happen in Maintainence Stage?
+What is waterfall Model?
+What is V Model?
+What is Early Testing?
+Diff b/w Waterfall and V Model?
+What is black box testig?
+What is white box testing?
+What are the different levels of testing?
+Who will do Unit Test?
+What will be Tested in unit test?
+Who will do Integration Test?
+What will be Tested in Integration test?
+Who will do System Test?
+What will be Tested in System test?
+Who will do Acceptance Test?
+What will be Tested in Acceptance test?
+What are the different environment avaiable?
+Which environment QA team will work?
+What is STLC?
+Diff B/W SDLC and STLC?
+What are the Different Stages in STLC?
+What is entry criteria?
+What is exit criteria?
+What will happen in Requirement Analysis Stage?
+What is walkthrough?
+What is scoping?
+What is the output of the Requirement Analysis Stage?
+What is Test Plan Document?
+What is Test Strategy Document?
+What is the output of the Test Planning Stage?
+What is test case?
+What is test scenario?
+What is RTM (Requirement Traceablility matrix) ?
+What are the different review available?
+What is the output of the Test Design Stage?
+What are the different testing perfromed in test execution stage?
+What is summary report?
+What is defect log?
+What will be the output of test execution stage?
+What are the different signoff avaiable?
+What is Boundary Value Analysis?
+What is Equivalence Class Partition?
+What is Decision Table testing?
+What is Use case testing?
+What is State Transition?
+What is Error Guessing?
+What are the consideration before starting the test case?
+What is Retesting?
+What is Regression?
+What is Smoke?
+What is Sanity?
+What is Alpha?
+What is Beta?
+What is Exploratory?
+What is Adhoc?
+What is Verification?
+What is Validation?
+What is QA?
+What is QC?
+What is Static Testing?
+What is Dynamic Testing?
+What are 7 Principle of Software Testing?
+What is a Defect?
+What is a Bug?
+What is an Error?
+What is a Failure?
+What is Bug Severity?
+What is Bug Priority?
+Who will set severity?
+Who will set priority?
+What is Bug Life Cycle?
+What is Showstopper Defect?
+What is HotFix?
+What is Bug leakage?
+What are the different status of the bug?
+Different tools to create the bug?

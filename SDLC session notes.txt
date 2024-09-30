@@ -1,0 +1,20 @@
+Topics to be covered
+
+Manual Introduction:
+======================
+
+Why Manual over Automation
+
+SDLC Introduction
+==================
+- What is SDLC
+
+- Stages of SDLC
+	
+	Requirement gathering and analysis.
+	Define
+	Design.
+	Implementation or coding or Built
+	Testing.
+	Deployment.
+	Maintenance
